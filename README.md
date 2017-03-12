@@ -4,4 +4,4 @@ A program written in [JAM Agent](http://www.marcush.net/IRS/Jam/Jam-man-01Nov01-
 
 ## Motivation
 
-To write an Intelligent Agent using JAM Agent that can decide on how to navigate the surface of mars. This was made for my Intelligent Agent coursework written on [JAM Agent](http://www.marcush.net/IRS/Jam/Jam-man-01Nov01-draft.htm) which is a declarative language designed for writting Intelligent Agends and Artificial Intelligent.
+To write an Intelligent Agent using JAM Agent that can decide on how to navigate the surface of mars. This was made for my Intelligent Agent coursework written in [JAM Agent](http://www.marcush.net/IRS/Jam/Jam-man-01Nov01-draft.htm) which is a declarative language designed for writting Intelligent Agents and Artificial Intelligent.
